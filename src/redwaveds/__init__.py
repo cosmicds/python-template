@@ -14,3 +14,15 @@ except PackageNotFoundError:  # pragma: no cover
     __version__ = "unknown"
 finally:
     del version, PackageNotFoundError
+
+
+from pathlib import Path
+from cosmicds import STORY_PATHS
+from .story import *
+from .stages import *
+from .tools import *
+from .viewers import *
+from .components import *
+
+
+STORY_PATHS['redwave'] = Path(__file__).parent / "Notebook.ipynb"
