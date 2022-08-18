@@ -1,6 +1,6 @@
 import pytest
 
-from redwaveds.skeleton import fib, main
+from radwaveds.skeleton import fib, main
 
 __author__ = "Nicholas Earl"
 __copyright__ = "Nicholas Earl"

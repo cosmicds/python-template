@@ -1,8 +1,8 @@
 =========
-redwaveds
+radwaveds
 =========
 
-This is the documentation of **redwaveds**.
+This is the documentation of **radwaveds**.
 
 .. note::
 

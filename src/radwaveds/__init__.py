@@ -25,4 +25,4 @@ from .viewers import *
 from .components import *
 
 
-STORY_PATHS['redwave'] = Path(__file__).parent / "Notebook.ipynb"
+STORY_PATHS['radwave'] = Path(__file__).parent / "Notebook.ipynb"

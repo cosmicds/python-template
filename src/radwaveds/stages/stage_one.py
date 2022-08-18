@@ -11,7 +11,7 @@ class StageState(CDSState):
     image_location = CallbackProperty()
 
 
-@register_stage(story="redwave", index=0, steps=[
+@register_stage(story="radwave", index=0, steps=[
     "Example Step One",
     "Example Step Two"
 ])
